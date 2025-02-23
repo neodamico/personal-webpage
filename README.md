@@ -49,7 +49,7 @@ Acessibilidade: Cuidei para que o site fosse acessível, incluindo descrições 
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/neodamico/personal-webpage/
 
 Abra o arquivo index.html no seu navegador.
 
@@ -114,7 +114,7 @@ Accessibility: Ensured the site is accessible, including alternative image descr
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/neodamico/personal-webpage/
 
 Open the index.html file in your browser.
 
